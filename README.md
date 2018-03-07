@@ -13,7 +13,9 @@ Pro-tip: using git to manage conflicts on Jupyter notebooks is a pain. I recomme
 
 ## Assessment
 
-Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
+I liked this assignment alot because it helped familiarize with plotting graphs using different methods. Hardest part was the 3D plot but I feel pretty comfotable now. (Daniel)
+
+This assignment sh
 
 **CHANGEME**
 
@@ -26,4 +28,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**Myranda**
+**Myranda, Daniel**
