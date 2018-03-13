@@ -2,7 +2,7 @@
 
 **Author(s):** **Daniel, Devon, Myranda**
 
-[![Build Status](https://travis-ci.org/chapman-phys220-2017f/cw-05-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-phys220-2017f/cw-05-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-phys220-2018s/cw-05-phys220.svg?branch=master)](https://travis-ci.org/chapman-phys220-2018s/cw-05-phys220)
 
 ## Specification
 
@@ -13,9 +13,9 @@ Pro-tip: using git to manage conflicts on Jupyter notebooks is a pain. I recomme
 
 ## Assessment
 
-I liked this assignment alot because it helped familiarize with plotting graphs using different methods. Hardest part was the 3D plot but I feel pretty comfotable now. (Daniel)
+I liked this assignment alot because it helped familiarize with plotting graphs using different methods. Hardest part was the 3D plot but I feel pretty comfortable now. (Daniel)
 
-This assignment sh
+This assignment allowed me to practice the various plotting methods. (MH)
 
 **CHANGEME**
 
