@@ -28,4 +28,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**Myranda, Daniel**
+**Myranda, Daniel, Devon**
